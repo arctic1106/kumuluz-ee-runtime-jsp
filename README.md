@@ -1,4 +1,4 @@
-### kumuluzEERuntime-jsp
+# kumuluzEERuntime-jsp
 
 Develop a sample JSP and Servlet and pack it as a KumuluzEE microservice.
 
