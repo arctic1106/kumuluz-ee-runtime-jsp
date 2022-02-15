@@ -1,4 +1,4 @@
-# kumuluzEE JSP
+# KumuluzEE JSP
 
 Develop a sample JSP and Servlet and pack it as a KumuluzEE microservice.
 
